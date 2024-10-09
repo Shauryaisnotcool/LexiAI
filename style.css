@@ -57,6 +57,7 @@ body.hide-header .header {
 
 .header .title {
   width: fit-content;
+  display: inline-block;
   font-size: 3rem;
   background-clip: text;
   background: linear-gradient(to right, #4285f4, #d96570);
