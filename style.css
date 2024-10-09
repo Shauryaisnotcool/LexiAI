@@ -49,7 +49,7 @@ body.hide-header .header {
 }
 
 .header :where(.title, .subtitle) {
-  color: var(--text-color);
+  color: black;
   font-weight: 500;
   line-height: 4rem;
 }
@@ -65,7 +65,7 @@ body.hide-header .header {
 
 .header .subtitle {
   font-size: 2.6rem;
-  background: linear-gradient(to right, #4285f4, #d96570);
+  color: #222;
 }
 
 .suggestion-list {
